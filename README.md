@@ -1,3 +1,3 @@
-### webserver forked from [this](https://github.com/tgcallsjs/LemonJamsBot) repo for [this](https://github.com/CW4RR10R/LemonJamsBot) repo 😂
+### webserver forked from [this](https://github.com/MunnaBhai-01/LemonJamsBot) repo for [this](https://github.com/MunnaBhai-01/LemonJamsBot) LuckyMusicPlayer Bot Repo😎
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CW4RR10R/LemonJamServer/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MunnaBhai-01/LemonJamServer/tree/main)
