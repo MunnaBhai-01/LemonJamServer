@@ -1,6 +1,6 @@
 {
-    "name":"LemonJamServer",
-    "description":"Webserver of LemonJamSbot",
+    "name":"LuckyMusicPlayer",
+    "description":"WebServer Of LuckyMusicPlayer",
     "env":{
         "SESSION":{
             "description":"Telethon session",
